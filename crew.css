@@ -1,0 +1,250 @@
+@font-face {
+    font-family:Japanese ;
+    src: url(fonts1/Sdasian-WyDon.ttf);
+
+}
+@font-face {
+    font-family:Japanese_2 ;
+    src: url(fonts2/Keshiki-RpYoA.otf);
+}
+@font-face {
+    font-family: Japanese_3;
+    src: url(samurai-blast-font/SamuraiBlast-YznGj.ttf);
+}
+@font-face {
+    font-family: Japanese_4;
+    src: url(fonts3/Ichimaru-PKB1d.otf);
+}
+*
+{
+    margin-left: 3%;
+    margin-right: 3%;
+    padding:0;
+    font-style: oblique;
+    text-align: justify;
+    
+}
+
+body{
+    background-color: black;
+}
+.logo{
+    width: 10%;
+    cursor:pointer;
+    margin-left: 44%;  
+}
+
+.title{
+    font-size: 63px;
+    font-weight: 100;
+    color: rgb(255, 254, 254);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 63px;
+    line-break:anywhere;
+    text-align: center;
+    font-family: Japanese_3;
+}
+
+.luffy_poster{
+    background-color:black;
+    padding:40px;
+    border-radius: 20px;
+    height: 400px;
+}
+
+.monkey_d{
+    width:350px;
+    height: 400px;
+    float:left;
+}
+
+.name_luffy{
+    color:rgb(255, 0, 0);
+    font-size: 23px;
+    font-weight: 50;
+    font-family: Japanese_3;
+}
+
+.zoro_poster{
+    margin-top: 20px;
+    background-color:black;
+    padding:40px;
+    border-radius: 20px;
+    height: 400px;
+}
+
+.R_Zorro{
+    width:350px;
+    height: 400px;
+    float:left;
+}
+
+.name_zoro{
+    color:rgb(0, 254, 97);
+    font-size: 23px;
+    font-family:Japanese_3;
+    font-weight: 50;
+}
+
+.sanji_poster{
+    margin-top: 20px;
+    background-color:Black;
+    padding:40px;
+    border-radius: 20px;
+    height: 400px;
+}
+
+.sanji{
+    width:350px;
+    height: 400px;
+    float:left;
+}
+
+.name_sanji{
+    color:rgb(0, 13, 255);
+    font-size: 23px;
+    font-family: Japanese_3;
+}
+
+.nami_poster{
+    margin-top: 20px;
+    background-color:rgb(0, 0, 0);
+    padding:40px;
+    border-radius: 20px;
+    height: 400px;
+}
+
+.nami{
+    width:350px;
+    height: 400px;
+    float:left;
+}
+
+.name_nami{
+    color:rgb(254, 123, 0);
+    font-size: 22px;
+    font-family: Japanese_3;
+}
+.chopper_poster{
+    margin-top: 20px;
+    background-color:black;
+    padding:40px;
+    border-radius: 20px;
+    height: 400px;
+}
+
+.chopper{
+    width:350px;
+    height: 400px;
+    float:left;
+}
+
+.name_chopper{
+    color:rgb(255, 0, 195);
+    font-size: 23px;
+    font-family:Japanese_3;
+}
+
+.robin_poster{
+    margin-top: 20px;
+    background-color: Black;
+    padding:40px;
+    border-radius: 20px;
+    height: 400px;
+}
+
+.robin{
+    width:350px;
+    height: 400px;
+    float:left;
+}
+
+.name_robin{
+    color:rgb(166, 0, 255);
+    font-size: 16px;
+    font-family: Japanese_3;
+}
+.ussop_poster{
+    margin-top: 20px;
+    background-color:black;
+    padding:40px;
+    border-radius: 20px;
+    height: 400px;
+}
+
+.ussop{
+    width:350px;
+    height: 400px;
+    float:left;
+}
+
+.name_ussop{
+    color:rgb(255, 221, 0);
+    font-size: 23px;
+    font-family: Japanese_3;
+}
+.franky_poster{
+    margin-top: 20px;
+    background-color:black;
+    padding:40px;
+    border-radius: 20px;
+    height: 400px;
+}
+
+.franky{
+    width:350px;
+    height: 400px;
+    float:left;
+}
+
+.name_franky{
+    color:rgb(0, 255, 238);
+    font-size: 23px;
+    font-family: Japanese_3;
+}
+.brook_poster{
+    margin-top: 20px;
+    background-color: black;
+    padding:40px;
+    border-radius: 20px;
+    height: 400px;
+}
+
+.brook{
+    width:350px;
+    height: 400px;
+    float:left;
+}
+
+.name_brook{
+    color:rgb(118, 112, 112);
+    font-size: 23px;
+    font-family: Japanese_3;
+}
+
+.jinbei_poster{
+    margin-top: 20px;
+    background-color: black;
+    padding:40px;
+    border-radius: 20px;
+    height: 400px;
+}
+
+.jinbei{
+    width:350px;
+    height: 400px;
+    float:left;
+}
+
+.name_jinbei{
+    color:rgb(0, 81, 255);
+    font-size: 23px;
+    font-family: Japanese_3;
+}
+
+
+
+
+
+
